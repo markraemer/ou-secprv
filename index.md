@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Oxford Security Reading Group
+title: Oxford Security and Privacy Reading Group
 permalink: /
 ---
 
