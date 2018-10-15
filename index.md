@@ -4,18 +4,18 @@ title: Oxford Security Reading Group
 permalink: /
 ---
 
-This is the website for the University of Oxford Security Reading Group. Here you will find contact information for how to join the mailing list, meeting information, and a list of the papers we have read and discussed historically.
+This is the website for the University of Oxford ***Security and Privacy Reading Group*** (previously Security Reading Group). Here you will find contact information for how to join the mailing list, meeting information, and a list of the papers we have read and discussed historically.
 
 ### Further Information
-We typically meet on Fridays at 3pm, in Robert Hooke Building (RHB), Room 114. Access is from the Computer Science entrance just off Parks Road, next to the Museum of Natural History. To be added to the mailing list, please email [Martin Dehnel-Wild](mailto:martin.dehnel-wild@cs.ox.ac.uk). Upcoming meetings are normally listed after the weekly email has gone out on the [Cyber Security Calendar](https://www.google.com/calendar/embed?src=fg56lmvbg5cd7dne58gssm9ido%40group.calendar.google.com&ctz=Europe/London).
+We typically meet on Fridays at 3pm, in Robert Hooke Building (RHB), Room 114. Access is from the Computer Science entrance just off Parks Road, next to the Museum of Natural History. To be added to the mailing list, please email [Martin Kraemer](mailto:martin.kraemer@cs.ox.ac.uk). Upcoming meetings are normally listed after the weekly email has gone out on the [Cyber Security Calendar](https://www.google.com/calendar/embed?src=fg56lmvbg5cd7dne58gssm9ido%40group.calendar.google.com&ctz=Europe/London).
 
 ## Archive of Papers
-Please see the following list for papers we have read in recent weeks, in reverse chronological order. 
+Please see the following list for papers we have read in recent weeks, in reverse chronological order.
 Please note:
 
 * Links will be to open-access PDFs/pre-prints *where possible*, but unfortunately these are not always available. I have tried to include multiple links to both open-access and paywall (e.g. ACM, Springer Link, IEEE) for each in case of dead links, and for ease of citation.
-* The initial date is the date of the reading group, not the publication of the paper. 
-* New papers will be added when I remember. [Email me](mailto:martin.dehnel-wild@cs.ox.ac.uk?subject=Martin you've forgotten to update the Reading Group Website) if I forget. :-) 
+* The initial date is the date of the reading group, not the publication of the paper.
+* New papers will be added when I remember. [Email me](mailto:martin.dehnel-wild@cs.ox.ac.uk?subject=Martin you've forgotten to update the Reading Group Website) if I forget. :-)
 * Where the publication venue says 'Discussion', this was a discussion-group meeting (included for completeness), rather than a reading group.
 
 #### 2018:
@@ -24,7 +24,7 @@ Please note:
 
 * 9th March, `On the Practical (In-)Security of 64-bit Block Ciphers: Collision Attacks on HTTP over TLS and OpenVPN` by Bhargavan and Leurent (CCS'16). [ACM](https://dl.acm.org/citation.cfm?doid=2976749.2978423). [PDF](https://eprint.iacr.org/2016/798.pdf).
 
-* 23rd February, `Blue versus Red: Towards a model of distributed security attacks` by Fultz and Grossklags, (FC'09). [PDF](http://people.ischool.berkeley.edu/~jensg/research/paper/Grossklags-FC09.pdf). 
+* 23rd February, `Blue versus Red: Towards a model of distributed security attacks` by Fultz and Grossklags, (FC'09). [PDF](http://people.ischool.berkeley.edu/~jensg/research/paper/Grossklags-FC09.pdf).
 
 * 16th February, `Dancing on the Lip of the Volcano: Chosen Ciphertext Attacks on Apple iMessage`, by Garman, Green et al. (USENIX 2016). [PDF](https://isi.jhu.edu/~mgreen/imessage.pdf).
 
@@ -80,7 +80,7 @@ Please note:
 
 * 3rd Feb 2017, `Accessorize to a Crime: Real and Stealthy Attacks on State-of-the-Art Face Recognition` by Sharif et al. (CCS'16). [PDF](https://www.cs.cmu.edu/~sbhagava/papers/face-rec-ccs16.pdf). [ACM](http://dl.acm.org/citation.cfm?id=2978392).
 
-* 27th Jan 2017, `The Square Root Law of Steganographic Capacity for Markov Covers` by Andrew Ker et al. (SPIE Electronic Imaging 2009). [PDF](http://www.cs.ox.ac.uk/andrew.ker/docs/ADK36B.pdf). [SPIE DL](http://proceedings.spiedigitallibrary.org/proceeding.aspx?articleid=1335163). 
+* 27th Jan 2017, `The Square Root Law of Steganographic Capacity for Markov Covers` by Andrew Ker et al. (SPIE Electronic Imaging 2009). [PDF](http://www.cs.ox.ac.uk/andrew.ker/docs/ADK36B.pdf). [SPIE DL](http://proceedings.spiedigitallibrary.org/proceeding.aspx?articleid=1335163).
 
 * 20th January 2017, `A Unilateral-to-Mutual Authentication Compiler for Key Exchange (with Applications to Client Authentication in TLS 1.3)` by Hugo Krawczyk. (CCS'16). [PDF](https://pdfs.semanticscholar.org/fdc8/88105ad8b32d9edd4cdc0452a04bebfdcc7d.pdf). [ACM](https://dl.acm.org/citation.cfm?id=2978325).
 
@@ -99,7 +99,7 @@ Please note:
 
 * 14th October 2016, `Measurement and Analysis of Private Key Sharing in the HTTPS Ecosystem` by Cangialosi et al. (CCS 2016). [PDF](http://www.ccs.neu.edu/home/amislove/publications/KeySharing-CCS.pdf).
 
-* 24th June 2016, `Automated reasoning for equivalences in the applied pi calculus with barriers` by Blanchet and Smyth (CSF 2016). [PDF](http://prosecco.gforge.inria.fr/personal/bblanche/publications/BlanchetSmythCSF16.pdf). 
+* 24th June 2016, `Automated reasoning for equivalences in the applied pi calculus with barriers` by Blanchet and Smyth (CSF 2016). [PDF](http://prosecco.gforge.inria.fr/personal/bblanche/publications/BlanchetSmythCSF16.pdf).
 
 * 17th June 2016, `A2: Analog Malicious Hardware` by Yang, Hicks, Dong, Austin, and Sylvester (IEEE S&P 2016). [PDF](http://static1.1.sqspcdn.com/static/f/543048/26931843/1464016046717/A2_SP_2016.pdf). [IEEE](http://www.ieee-security.org/TC/SP2016/papers/0824a018.pdf).
 
@@ -129,7 +129,7 @@ Please note:
 
 #### 2015:
 
-* 11th December 2015, `Experimental Analysis of Attacks on Next Generation Air Traffic Communication` by Schäfer, et al. (ANCS 2013). [PDF](http://www.lenders.ch/publications/conferences/acns13.pdf). [Springer Link](http://link.springer.com/chapter/10.1007/978-3-642-38980-1_16). 
+* 11th December 2015, `Experimental Analysis of Attacks on Next Generation Air Traffic Communication` by Schäfer, et al. (ANCS 2013). [PDF](http://www.lenders.ch/publications/conferences/acns13.pdf). [Springer Link](http://link.springer.com/chapter/10.1007/978-3-642-38980-1_16).
 
 * 27th November 2015, `VCR: App-Agnostic Recovery of Photographic Evidence from Android Device Memory Images` by Saltaformaggio, et al. (ACM CCS, 2015). [PDF](https://www.cs.purdue.edu/homes/bsaltafo/pubs/CCS_15_VCR.pdf). [ACM](https://dl.acm.org/citation.cfm?id=2813720).
 
@@ -199,4 +199,4 @@ Please note:
 
 * 17th October 2014, `Deniable Liaisons` by Abhinav Narain, Nick Feamster and Alex C. Snoeren (CCS 2014). [PDF](http://www.cc.gatech.edu/grads/n/nabhinav/ccs2014.pdf). [ACM](https://dl.acm.org/citation.cfm?id=2660340).
 
-Many thanks are due to [Joe Loughry](https://www.cs.ox.ac.uk/people/joe.loughry/) for keeping such immaculate records, and to [Andrew Paverd](https://www.cs.ox.ac.uk/people/andrew.paverd/) for having run the reading group so successfully before me.
+Many thanks are due to [Joe Loughry](https://www.cs.ox.ac.uk/people/joe.loughry/) for keeping such immaculate records, and to [Andrew Paverd](https://www.cs.ox.ac.uk/people/andrew.paverd/) and [Martin Dehnel-Wild](https://www.cs.ox.ac.uk/people/martin.dehnel-wild/) for having run the reading group so successfully before us.
