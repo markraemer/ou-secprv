@@ -14,7 +14,9 @@ Please note:
 
 #### 2018:
 
-* 19th October 2018, `Do You Believe in Tinker Bell? The Social Externalities of Trust` by Khaled Baqer and Ross Anderson (Security Protocols XXIII). [PDF](https://www.cl.cam.ac.uk/~rja14/Papers/spw15-12-Anderson.pdf). [Springer Link](https://link.springer.com/chapter/10.1007/978-3-319-26096-9_23).
+* 26th October, `Stuxnet: the emergence of a new cyber weapon and its implications.` by Collins, S., & McCombie, S. (2012).  Journal of Policing, Intelligence and Counter Terrorism, 7(1), 80–91. [PDF](https://ezproxy-prd.bodleian.ox.ac.uk:2109/doi/pdf/10.1080/18335330.2012.653198?needAccess=true&)
+
+* 19th October, `Do You Believe in Tinker Bell? The Social Externalities of Trust` by Khaled Baqer and Ross Anderson (Security Protocols XXIII). [PDF](https://www.cl.cam.ac.uk/~rja14/Papers/spw15-12-Anderson.pdf). [Springer Link](https://link.springer.com/chapter/10.1007/978-3-319-26096-9_23).
 
 * 16th March, `Certified Malware: Measuring Breaches of Trust in the Windows Code-Signing PKI` by Kim et al. (CCS'17). [ACM](https://dl.acm.org/citation.cfm?doid=3133956.3133958). [PDF](http://legacydirs.umiacs.umd.edu/~tdumitra/papers/CCS-2017.pdf).
 

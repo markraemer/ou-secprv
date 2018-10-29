@@ -8,13 +8,22 @@ permalink: /
 Fridays (during full term), 3.15 pm, Room 114, [Robert Hooke Building](http://www.cs.ox.ac.uk/aboutus/directions.html)
 
 ### This week's paper
-Collins, S., & McCombie, S. (2012). *Stuxnet: the emergence of a new cyber weapon and its implications.* Journal of Policing, Intelligence and Counter Terrorism, 7(1), 80–91. [PDF](https://ezproxy-prd.bodleian.ox.ac.uk:2109/doi/pdf/10.1080/18335330.2012.653198?needAccess=true&)
+H. Abelson et al., `Keys under doormats: Mandating insecurity by requiring government access to all data and communications,` J. Cybersecurity, vol. 1, no. 1, pp. 69–79, 2015. [PDF](https://dspace.mit.edu/bitstream/handle/1721.1/97690/MIT-CSAIL-TR-2015-026.pdf)
 
 ### Coming up
-This is a list of upcoming papers. We are open to your ideas. If there is a paper you would like to share, email [Martin](mailto:martin.kraemer@cs.ox.ac.uk).
+We are open to your ideas. If there is a paper you would like to share, email [Martin](mailto:martin.kraemer@cs.ox.ac.uk).
 
-[to be added shortly]
+
+
+
+<!--#### CDT Modules Schedule
+* November 9th - Privacy
+* November 16th - Human Factors in Security
+* November 23th - Cyber Risk
+* November 30th - Malware
 * December 7th - International Relations and Cyber Security
+* January 11th - Policy, Governance, Ethics
+* January 25th - Forensics-->
 
 
 ### Further Information

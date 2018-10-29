@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Security and Privacy Reading Group</title>
+    <title>Oxford Security and Privacy Reading Group</title>
     <description>University of Oxford Security and Privacy Reading Group: Information Page and Paper Archive.
 </description>
     <link>http://localhost:4000/ou-secprv/</link>
     <atom:link href="http://localhost:4000/ou-secprv/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 25 Oct 2018 09:58:33 +0100</pubDate>
-    <lastBuildDate>Thu, 25 Oct 2018 09:58:33 +0100</lastBuildDate>
+    <pubDate>Mon, 29 Oct 2018 11:20:50 +0000</pubDate>
+    <lastBuildDate>Mon, 29 Oct 2018 11:20:50 +0000</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
     
       <item>
