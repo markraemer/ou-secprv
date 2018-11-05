@@ -13,6 +13,7 @@ Please note:
 * Where the publication venue says 'Discussion', this was a discussion-group meeting (included for completeness), rather than a reading group.
 
 #### 2018:
+* 1st November, `Keys under doormats: Mandating insecurity by requiring government access to all data and communications,` by H. Abelson et al., J. Cybersecurity, vol. 1, no. 1, pp. 69–79, 2015. [PDF](https://dspace.mit.edu/bitstream/handle/1721.1/97690/MIT-CSAIL-TR-2015-026.pdf)
 
 * 26th October, `Stuxnet: the emergence of a new cyber weapon and its implications.` by Collins, S., & McCombie, S. (2012).  Journal of Policing, Intelligence and Counter Terrorism, 7(1), 80–91. [PDF](https://ezproxy-prd.bodleian.ox.ac.uk:2109/doi/pdf/10.1080/18335330.2012.653198?needAccess=true&)
 

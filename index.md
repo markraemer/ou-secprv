@@ -8,7 +8,7 @@ permalink: /
 Fridays (during full term), 3.15 pm, Room 114, [Robert Hooke Building](http://www.cs.ox.ac.uk/aboutus/directions.html)
 
 ### This week's paper
-H. Abelson et al., `Keys under doormats: Mandating insecurity by requiring government access to all data and communications,` J. Cybersecurity, vol. 1, no. 1, pp. 69–79, 2015. [PDF](https://dspace.mit.edu/bitstream/handle/1721.1/97690/MIT-CSAIL-TR-2015-026.pdf)
+A. Acquisti, L. Brandimarte, and G. Loewenstein, `Privacy and Human Behaviour in the Age of Information,` Science (80-. )., vol. 347, no. 6221, pp. 509–515, 2015. [PDF](http://science.sciencemag.org/content/347/6221/509/tab-pdf)
 
 ### Coming up
 We are open to your ideas. If there is a paper you would like to share, email [Martin](mailto:martin.kraemer@cs.ox.ac.uk).
