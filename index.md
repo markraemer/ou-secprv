@@ -8,10 +8,13 @@ permalink: /
 Fridays (during full term), 3.15 pm, Room 114, [Robert Hooke Building](http://www.cs.ox.ac.uk/aboutus/directions.html)
 
 ### This week's paper
-A. Acquisti, L. Brandimarte, and G. Loewenstein, `Privacy and Human Behaviour in the Age of Information,` Science (80-. )., vol. 347, no. 6221, pp. 509–515, 2015. [PDF](http://science.sciencemag.org/content/347/6221/509/tab-pdf)
+November 16th - A. Jacobsson, M. Boldt, and B. Carlsson, `A risk analysis of a smart home automation system,` Futur. Gener. Comput. Syst., vol. 56, pp. 719–733, 2016. [PDF](https://www.sciencedirect.com/science/article/pii/S0167739X15002812)
 
 ### Coming up
 We are open to your ideas. If there is a paper you would like to share, email [Martin](mailto:martin.kraemer@cs.ox.ac.uk).
+
+* November 23rd - C. Meijer and B. Van Gastel, `Self-encrypting deception : weaknesses in the encryption of solid state drives ( SSDs ),` draft. 2018. [PDF](https://www.ru.nl/publish/pages/909282/draft-paper.pdf)
+  * Rebuttal by Robert Thibadeau `On the Lies about Self-Encrypting Drives (SEDs)` [link](http://www.privust.com/sedlies/)
 
 
 
