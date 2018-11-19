@@ -13,6 +13,8 @@ Please note:
 * Where the publication venue says 'Discussion', this was a discussion-group meeting (included for completeness), rather than a reading group.
 
 #### 2018:
+* 16th November, `A risk analysis of a smart home automation system,` A. Jacobsson, M. Boldt, and B. Carlsson, Futur. Gener. Comput. Syst., vol. 56, pp. 719–733, 2016. [PDF](https://www.sciencedirect.com/science/article/pii/S0167739X15002812)
+
 * 9th November, `Privacy and Human Behaviour in the Age of Information,` by  A. Acquisti, L. Brandimarte, and G. Loewenstein,  Science (80-. )., vol. 347, no. 6221, pp. 509–515, 2015. [PDF](http://science.sciencemag.org/content/347/6221/509/tab-pdf)
 
 * 2nd November, `Keys under doormats: Mandating insecurity by requiring government access to all data and communications,` by H. Abelson et al., J. Cybersecurity, vol. 1, no. 1, pp. 69–79, 2015. [PDF](https://dspace.mit.edu/bitstream/handle/1721.1/97690/MIT-CSAIL-TR-2015-026.pdf)

@@ -8,13 +8,17 @@ permalink: /
 Fridays (during full term), 3.15 pm, Room 114, [Robert Hooke Building](http://www.cs.ox.ac.uk/aboutus/directions.html)
 
 ### This week's paper
-November 16th - A. Jacobsson, M. Boldt, and B. Carlsson, `A risk analysis of a smart home automation system,` Futur. Gener. Comput. Syst., vol. 56, pp. 719–733, 2016. [PDF](https://www.sciencedirect.com/science/article/pii/S0167739X15002812)
+23rd November - K. Müller and C. Schwarz, `Fanning the Flames of Hate: Social Media and Hate Crime,` Ssrn, 2017.
+https://warwick.ac.uk/fac/soc/economics/staff/crschwarz/fanning-flames-hate.pdf
+*proposed by [John Gallacher](https://www.psy.ox.ac.uk/team/john-gallacher)*
 
 ### Coming up
 We are open to your ideas. If there is a paper you would like to share, email [Martin](mailto:martin.kraemer@cs.ox.ac.uk).
 
-* November 23rd - C. Meijer and B. Van Gastel, `Self-encrypting deception : weaknesses in the encryption of solid state drives ( SSDs ),` draft. 2018. [PDF](https://www.ru.nl/publish/pages/909282/draft-paper.pdf)
+* November 30th - proposed by [Joe Loughry](https://www.linkedin.com/in/jloughry) - C. Meijer and B. Van Gastel, `Self-encrypting deception : weaknesses in the encryption of solid state drives ( SSDs ),` draft. 2018. [PDF](https://www.ru.nl/publish/pages/909282/draft-paper.pdf)
   * Rebuttal by Robert Thibadeau `On the Lies about Self-Encrypting Drives (SEDs)` [link](http://www.privust.com/sedlies/)
+
+* December 7th - proposed by [Monica Kaminska](https://www.ctga.ox.ac.uk/people/monica-kaminska) - paper tba
 
 
 
