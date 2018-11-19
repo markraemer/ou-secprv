@@ -17,13 +17,13 @@ We are open to your ideas. If there is a paper you would like to share, email [M
 
 * November 30th - proposed by [Joe Loughry](https://www.linkedin.com/in/jloughry) - C. Meijer and B. Van Gastel, `Self-encrypting deception : weaknesses in the encryption of solid state drives ( SSDs ),` draft. 2018. [PDF](https://www.ru.nl/publish/pages/909282/draft-paper.pdf)
   * Rebuttal by Robert Thibadeau `On the Lies about Self-Encrypting Drives (SEDs)` [link](http://www.privust.com/sedlies/)
-
+<!--
 * December 7th - proposed by [Monica Kaminska](https://www.ctga.ox.ac.uk/people/monica-kaminska) - paper tba
 
 
 
 
-<!--#### CDT Modules Schedule
+#### CDT Modules Schedule
 * November 9th - Privacy
 * November 16th - Human Factors in Security
 * November 23th - Cyber Risk
