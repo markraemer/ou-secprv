@@ -8,23 +8,16 @@ permalink: /
 Fridays (during full term), 3.15 pm, Room 114, [Robert Hooke Building](http://www.cs.ox.ac.uk/aboutus/directions.html)
 
 ### This week's paper
-23rd November - K. Müller and C. Schwarz, `Fanning the Flames of Hate: Social Media and Hate Crime,` Ssrn, 2017.
-https://warwick.ac.uk/fac/soc/economics/staff/crschwarz/fanning-flames-hate.pdf
-*proposed by [John Gallacher](https://www.psy.ox.ac.uk/team/john-gallacher)*
+* November 30th - proposed by [Joe Loughry](https://www.linkedin.com/in/jloughry) - C. Meijer and B. Van Gastel, `Self-encrypting deception : weaknesses in the encryption of solid state drives ( SSDs ),` draft. 2018. [PDF](https://www.ru.nl/publish/pages/909282/draft-paper.pdf)
+  * Rebuttal by Robert Thibadeau `On the Lies about Self-Encrypting Drives (SEDs)` [link](http://www.privust.com/sedlies/)
+
 
 ### Coming up
 We are open to your ideas. If there is a paper you would like to share, email [Martin](mailto:martin.kraemer@cs.ox.ac.uk).
 
-* November 30th - proposed by [Joe Loughry](https://www.linkedin.com/in/jloughry) - C. Meijer and B. Van Gastel, `Self-encrypting deception : weaknesses in the encryption of solid state drives ( SSDs ),` draft. 2018. [PDF](https://www.ru.nl/publish/pages/909282/draft-paper.pdf)
-  * Rebuttal by Robert Thibadeau `On the Lies about Self-Encrypting Drives (SEDs)` [link](http://www.privust.com/sedlies/)
+
 
 <!--
-* December 7th - proposed by [Monica Kaminska](https://www.ctga.ox.ac.uk/people/monica-kaminska) - paper tba
-#### CDT Modules Schedule
-* November 9th - Privacy
-* November 16th - Human Factors in Security
-* November 23th - Cyber Risk
-* November 30th - Malware
 * December 7th - International Relations and Cyber Security
 * January 11th - Policy, Governance, Ethics
 * January 25th - Forensics-->
